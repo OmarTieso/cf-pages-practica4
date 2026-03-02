@@ -21,8 +21,7 @@ function App() {
           <img src={cloudflareLogo} className='logo cloudflare' alt='Cloudflare logo' />
         </a>
       </div>
-      <h1>UPDATE 1 - Pipeline funcionando</h1>
-      <p>Segundo deploy activado por push a GitHub</p>
+      <h1>Tarea 6 PROD/UAT OK</h1>
       <div className='card'>
         <button
           onClick={() => setCount((count) => count + 1)}
